@@ -6,3 +6,6 @@
 ``` php
 $myVar = "Hello, world!";
 ```
+- [x] Do Chceklist
+- [ ] Add Checkmark
+- [x] Learn PHP
